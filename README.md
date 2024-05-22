@@ -4,4 +4,4 @@
           gradio
 
 #get api key from openai platform link:
-          platform.openai.com
+          https://platform.openai.com/api-keys
